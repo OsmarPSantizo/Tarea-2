@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+
+<Fandoms>
+	<Fandom ID = "1">
+		<Nombre>ONCES</Nombre>
+		<Grupo>Twice</Grupo>
+		<Lema>One in a Million!</Lema>
+		<Color>Albaricoque</Color>
+	</Fandom>
+
+	<Fandom ID = "2">
+		<Nombre>ELVIS</Nombre>
+		<Grupo>AOA</Grupo>
+		<Lema>Hi! We are Ace of Angels, AOA!</Lema>
+		<Color>Amarillo</Color>
+	</Fandom>
+
+	<Fandom ID = "3">
+		<Nombre>ReVeluv</Nombre>
+		<Grupo>Red Velvet</Grupo>
+		<Lema>¡Happiness!</Lema>
+		<Color>Pastel Coral</Color>
+	</Fandom>
+
+	<Fandom ID = "4">
+		<Nombre>ATINY</Nombre>
+		<Grupo>Ateez</Grupo>
+		<Lema>8 MAKES 1 TEAM!</Lema>
+		<Color>Verde</Color>
+	</Fandom>
+</Fandoms>
+

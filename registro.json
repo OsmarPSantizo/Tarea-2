@@ -1,0 +1,27 @@
+[
+	{
+		"Nombre":"Ace of Angels",
+		"Debut":"2012",
+		"Integrantes": "4",
+		"Ultimo album":"New Moon"
+	},
+	{
+		"Nombre":"Twice",
+		"Debut":"2015",
+		"Integrantes": "9",
+		"Ultimo album":"MORE & MORE"
+	},
+	{
+		"Nombre":"Red Velvet",
+		"Debut":"2014",
+		"Integrantes": "5",
+		"Ultimo album":"The ReVe Festival: Day 2"
+	},
+	{
+		"Nombre":"Ateez",
+		"Debut":"2018",
+		"Integrantes": "8",
+		"Ultimo album":"ZERO : FEVER Part. 1"
+	}	
+
+]
